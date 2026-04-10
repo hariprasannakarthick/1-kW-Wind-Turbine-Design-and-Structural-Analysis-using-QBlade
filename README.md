@@ -49,4 +49,11 @@ This project focuses on the design and simulation of a 1 kW horizontal-axis wind
 - Optimization of blade geometry
 - Generator and drivetrain integration
 - Real-world testing and validation
+---
 
+## Author
+
+Hari Prasanna
+B.Tech Robotics Engineering
+
+---
